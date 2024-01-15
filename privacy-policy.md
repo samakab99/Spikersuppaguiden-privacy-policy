@@ -11,4 +11,5 @@ Cookies are files with small amount of data that is commonly used an anonymous u
 This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services.
 
 
-
+Data collected:
+The third-party Entur As collects the calls done to the Api.
